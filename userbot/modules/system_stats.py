@@ -215,6 +215,7 @@ CMD_HELP.update({
     \n\n.resetalive\
     \nUsage: Resets the user to default."
 })
+CMD_HELP.update({
 "hack":
     ".hack\
     \nUsage: Type .on to see wether your bot is working or not.\
