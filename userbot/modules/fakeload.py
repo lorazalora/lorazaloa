@@ -1,8 +1,7 @@
 #made by @DneZyeK
 import asyncio
 import re
-import time
-from time import sleep
+import sleep
 from userbot import CMD_HELP, ZALG_LIST
 from userbot.events import register
 
