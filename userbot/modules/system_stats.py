@@ -135,38 +135,7 @@ async def amireallyalive(on):
                      "====================== "
 
                                          "")
-await on.edit("`"
-                     f"Connecting To Hacked Private Server..."
-                                         "")
-await on.edit("`"
-                     f"Target Selected."
-                                         "")
-                                         await on.edit("`"
-                     f"Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒"
-                                         "")
-                                         await on.edit("`"
-                     f"Hacking... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒"
-                                         "")
-                                         await on.edit("`"
-                     f"Hacking... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒."
-                                         "")
-                                         await on.edit("`"
-                     f"Hacking... 20%\n█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒"
-                                         "")await on.edit("`"
-                     f"Hacking... 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒"
-                                         "")
-                                         await on.edit("`"
-                     f"Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒."
-                                         "")
-await on.edit("`"
-                     f"Hacking... 84%\n█████████████████████▒▒▒▒"
-                                         "")
-await on.edit("`"
-                     f"Hacking... 100%\n█████████HACKED███████████"
-                                         "")
-                                         await on.edit("`"
-                     f"Targeted Account Hacked...\n\nPay 9999$ To @Lorazalora or a Plate of Samosas To Remove This Hack"
-                                         "")
+
 
 
 @register(outgoing=True, pattern="^.aliveu")
